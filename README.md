@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pgiro14
+- 👋 Hi, I’m Pedro Giro
 - 👀 I’m interested in medicine and finance. 
 - 🌱 I’m currently learning R. 
 - 💞️ I’m looking to collaborate on anything. 
